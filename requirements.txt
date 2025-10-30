@@ -1,0 +1,9 @@
+opencv-python
+numpy
+Pillow
+rembg
+mediapipe
+scikit-image
+onnxruntime
+opencv
+streamlit
